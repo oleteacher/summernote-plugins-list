@@ -1,4 +1,4 @@
-## Summernot Plugins
+## Summernote Plugins
 
 List from GitHub: https://github.com/topics/summernote-plugins
 
